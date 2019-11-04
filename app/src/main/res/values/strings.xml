@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="a02txtSuma">SUMA</string>
+    <string name="a02txtPlus">+</string>
+    <string name="a02txtIgual">=</string>
+    <string name="a02txtCorrectas">Preguntas correctas:</string>
+    <string name="a02txtIncorrectas">Incorrectas:</string>
+    <string name="a02btn">Comprobar resultado</string>
+    <string name="a02txtResultadoFrase">El resultado de la operacion es:</string>
+    <string name="a02txtResultadoCorrecto">CORRECTA</string>
+    <string name="a02txtResultadoIcorrecto">INCORRECTA</string>
+</resources>
